@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Keyboard Samples</string>
+    <string name="hint_phonenumber">enter phone number</string>
+    <string name="show_button">Show</string>
+    <string name="number_label">Phone Number : </string>
+    <string name="nothing_entered"> nothing entered</string>
+    <string name="nothing_selected"> onNothingSelected</string>
+</resources>
